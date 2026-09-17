@@ -1,0 +1,21 @@
+**- PROJECT OVERVIEW -**
+
+
+
+**- TECHNICAL SPECIFICATIONS -**
+
+
+
+**- SINGLE LINE DIAGRAM -**
+
+
+
+**- MATHEMATICAL PROCEDURE -**
+
+
+
+**- COLOR CONVENTIONS -**
+
+
+
+**- KEY TAKEAWAYS -**
