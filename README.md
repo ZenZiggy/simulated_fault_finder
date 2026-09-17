@@ -64,3 +64,9 @@ The mathematical model used for this project is directly derived from the standa
 The system calculates this value every 1 second. It is used directly to determine if there is a fault at any given zone and where it is located.
 
 **- KEY TAKEAWAYS -**
+
+While this project is extremely rudimentary, the key concept is readily present. Utilizing a mere voltage divider, the distance a fault is from 
+a given source, like a substation, can easily be calculated. This simulates one of the real-world methods used in electrical power distribution.
+
+In the future, I would like to expand upon this project by introducing a relay module and a functioning LCD panel to display the code output directly
+on the breadboard circuit.
